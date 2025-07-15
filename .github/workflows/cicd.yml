@@ -45,7 +45,7 @@ jobs:
 
     environment:
       name: fast-woocommerce-wishlist
-      url: fast-woocommerce-wishlist
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
