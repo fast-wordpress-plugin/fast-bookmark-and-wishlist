@@ -25,11 +25,11 @@ The **Fast Wishlist and Bookmark Plugin** is a WordPress plugin that enables use
 
 ## Wishlist for Woocommerce
 ### Wishlist for PLP
-![Add to wishlist for Woocommerce](/assets/img/PLP.jpg)
+![Add to wishlist for Woocommerce](assets/img/PLP.jpg)
 ### Wishlist page
-![Manage wishlist in Woocommerce](/assets/img/wishlist-page.jpg)
+![Manage wishlist in Woocommerce](assets/img/wishlist-page.jpg)
 ### Wishlist for PDP
-![Manage wishlist in Woocommerce](/assets/img/PDP.jpg)
+![Manage wishlist in Woocommerce](assets/img/PDP.jpg)
 
 ## Notes
 

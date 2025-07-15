@@ -2,10 +2,10 @@
 
 The plugin provides a settings page under **Settings > Fast Bookmark** to configure:
 
-![Config Fast bookmark plugin](/assets/img/config-sidebar.jpg)
+![Config Fast bookmark plugin](assets/img/config-sidebar.jpg)
 
 or you can click on **plugins > settings**
-![Config Fast bookmark and wishlist for Woocommerce plugin](/assets/img/plugin-setting.jpg)
+![Config Fast bookmark and wishlist for Woocommerce plugin](assets/img/plugin-setting.jpg)
 
 - **Custom CSS**: Override default styles, saved to `assets/css/bookmark-user-custom.css`. Leave this field empty to prevent overriding the default styles. If you choose to override the default CSS, you can always download it for customization. Remember, either the default CSS or your custom CSS will be applied.
 - **Bookmarks Per Page**: Set the number of bookmarks displayed per page (1-32).
