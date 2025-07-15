@@ -7,6 +7,8 @@ nav:
   - About: about.md
 theme:
   name: material
+  logo: /assets/img/logo.png
+  favicon: /assets/img/logo.png
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -54,6 +56,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  
+
 extra:
   generator: false
